@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Resources</title>
+
+    <style>
+        body {
+            background-color: rgba(94, 37, 146, 0.466);
+            color: rgb(12, 10, 15);
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 16px;
